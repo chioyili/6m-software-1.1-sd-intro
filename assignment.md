@@ -30,7 +30,7 @@ div:nth-child(6)
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Add this to the child class:
+Add this to the '.child' class:
 box-sizing: border-box;
 ```
 
